@@ -3,7 +3,7 @@
 I'm a third-year statistics and data science major at the University of California, Santa Barbara with an interest in machine learning and predictive modeling. I enjoy working on real-world data projects where I can assist in creating actionable insights. My projects usually start
 with a question about something I care about, like healthcare or housing, and end with a model that answers a question about it.
 
-### 🔭 Featured projects
+### Featured projects 🔭
 
 - **[Medicare Utilization Analysis](https://github.com/Ethan-Chuang/Medicare-Payment-Prediction)**
   — Inferential ML on public CMS Medicare survey data (MCBS). Builds a PCA-based
@@ -17,13 +17,14 @@ with a question about something I care about, like healthcare or housing, and en
   split.
   <br>*Gradient Boosting R² ≈ 0.88, ~8% median error.*
 
-### 🛠️ Tools I work with
+### Tools I work with 🛠️
 
 `Python` · `pandas` · `NumPy` · `scikit-learn` · `XGBoost` / `LightGBM` / `CatBoost` · `SHAP` · `statsmodels` · `Matplotlib` / `seaborn` · `Streamlit`
 
-### 📫 Reach me
+### About me 📫
 
-- ✉️ ethanjchuang@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/chuangethan/)
+- [Resume](https://drive.google.com/file/d/1WBomKmvofMdEBiHuWwCTwBAUzgEYaEJq/view?usp=sharing)
 <!-- Add your LinkedIn, portfolio site, or school/grad year here -->
 
 <!--
