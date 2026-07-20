@@ -1,9 +1,7 @@
 ## Hi, I'm Ethan 👋
 
-Data science & machine learning enthusiast who enjoys taking messy, real-world
-data all the way to a working, **explainable** model. My projects usually start
-with a question about something I actually care about — healthcare, housing,
-music — and end with a model that helps answer it.
+I'm a third-year statistics and data science major at the University of California, Santa Barbara with an interest in machine learning and predictive modeling. I enjoy working on real-world data projects where I can assist in creating actionable insights. My projects usually start
+with a question about something I care about, like healthcare or housing, and end with a model that answers a question about it.
 
 ### 🔭 Featured projects
 
