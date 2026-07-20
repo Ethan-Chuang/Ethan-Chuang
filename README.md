@@ -24,7 +24,7 @@ with a question about something I care about, like healthcare or housing, and en
 ### About me 📫
 
 - [LinkedIn](https://www.linkedin.com/in/chuangethan/)
-- [Resume](https://drive.google.com/file/d/1WBomKmvofMdEBiHuWwCTwBAUzgEYaEJq/view?usp=sharing)
+- [Website](https://ethan-chuang.github.io/)
 <!-- Add your LinkedIn, portfolio site, or school/grad year here -->
 
 <!--
