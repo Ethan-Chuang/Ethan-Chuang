@@ -8,8 +8,9 @@ with a question about something I care about, like healthcare or housing, and en
 - **[Medicare Utilization Analysis](https://github.com/Ethan-Chuang/Medicare-Payment-Prediction)**
   — Inferential ML on public CMS Medicare survey data (MCBS). Builds a PCA-based
   *utilization score* and predicts + explains it with XGBoost and SHAP.
-  <br>*Gradient Boosting R² ≈ 0.53; the strongest driver is Fee-for-Service vs.
-  Medicare Advantage coverage.*
+  <br>*Gradient Boosting R² ≈ 0.53; full-year Fee-for-Service beneficiaries
+  utilize ~4x more than full-year Medicare Advantage beneficiaries, and the gap
+  widens with age — flagging the top 10% by predicted risk hits an 0.88 AUC.*
 
 - **[California Home Price Prediction](https://github.com/Ethan-Chuang/CA-house-price-prediction)**
   — Predicts single-family home sale prices from ~1 year of California MLS
