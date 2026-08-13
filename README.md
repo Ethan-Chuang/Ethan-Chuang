@@ -13,8 +13,7 @@ with a question about something I care about, like healthcare or housing, and en
   widens with age — flagging the top 10% by predicted risk hits an 0.88 AUC.*
 
 - **[NBA Analytics Platform](https://github.com/Ethan-Chuang/nba-analytics-platform)**
-- An end-to-end analytics stack for the 2023-24 NBA season: an orchestrated ETL pipeline landing 1,230 games and 26,401 player box score lines into a normalized PostgreSQL warehouse, a dbt analytics layer, a REST API, and a published dashboard.
-
+  — An end-to-end analytics stack for the 2023-24 NBA season: an orchestrated ETL pipeline landing 1,230 games and 26,401 player box score lines into a normalized PostgreSQL warehouse, a dbt analytics layer, a REST API, and a published dashboard.
 
 - **[California Home Price Prediction](https://github.com/Ethan-Chuang/CA-house-price-prediction)**
   — Predicts single-family home sale prices from ~1 year of California MLS
