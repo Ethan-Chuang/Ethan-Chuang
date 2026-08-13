@@ -12,15 +12,22 @@ with a question about something I care about, like healthcare or housing, and en
   utilize ~4x more than full-year Medicare Advantage beneficiaries, and the gap
   widens with age — flagging the top 10% by predicted risk hits an 0.88 AUC.*
 
+- **[NBA Analytics Platform](https://github.com/Ethan-Chuang/nba-analytics-platform)**
+  - An end-to-end analytics stack for the 2023-24 NBA season: an orchestrated ETL pipeline landing 1,230 games and 26,401 player box score lines into a normalized PostgreSQL warehouse, a dbt analytics layer, a REST API, and a published dashboard.
+
+
 - **[California Home Price Prediction](https://github.com/Ethan-Chuang/CA-house-price-prediction)**
   — Predicts single-family home sale prices from ~1 year of California MLS
   sold-listing data, with heavy feature engineering and a time-based train/test
   split.
   <br>*Gradient Boosting R² ≈ 0.88, ~8% median error.*
 
+
+
+
 ### Tools I work with 🛠️
 
-`Python` · `pandas` · `NumPy` · `scikit-learn` · `XGBoost` / `LightGBM` / `CatBoost` · `SHAP` · `statsmodels` · `Matplotlib` / `seaborn` · `Streamlit`
+`Python` · `pandas` · `NumPy` · `scikit-learn` · `XGBoost` / `CatBoost` · `SHAP` · `statsmodels` · `Matplotlib` / `seaborn` · `Streamlit` · `Tableau`
 
 ### About me 📫
 
